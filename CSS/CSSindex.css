@@ -65,7 +65,7 @@ ul.menu li.logo img {
     width: 20px;
     height: 20px;
     font-weight: bold;
-    background-image: url(https://github.com/AngelitaMoraes/Descodificadas2023_tarefa6codigohtmldoseusite/blob/main/Imagem/Lupa.png);
+    background-image: url(".../Imagem/Lupa.png");
     background-size: cover;
     cursor: pointer;
 }
