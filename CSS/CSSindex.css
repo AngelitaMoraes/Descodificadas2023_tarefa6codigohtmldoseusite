@@ -65,7 +65,7 @@ ul.menu li.logo img {
     width: 20px;
     height: 20px;
     font-weight: bold;
-    background-image: url(../Imagem/Lupa.png);
+    background-image: url(/Imagem/Lupa.png);
     background-size: cover;
     cursor: pointer;
 }
@@ -84,7 +84,7 @@ ul.menu li.logo img {
 .menu-texto {
     margin-top: 51px;
     padding: 95px 0px 115px 14px;
-    background-image: url(../Imagem/BackgroundMenu.jpg);
+    background-image: url("/Imagem/BackgroundMenu.jpg");
     background-size: cover;
     position: relative;
     text-align: center;
@@ -120,7 +120,7 @@ ul.menu li.logo img {
     border-top: 10px solid #c4bfbfb2;
     width: 100%;
     list-style-type: none;
-    background-image: url("./Imagem/Fundo2.jpeg");
+    background-image: url("/Imagem/Fundo2.jpeg");
     background-position: center;
     text-align: center;
     background-size: cover;
