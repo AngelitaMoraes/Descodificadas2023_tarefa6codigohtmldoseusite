@@ -84,7 +84,7 @@ ul.menu li.logo img {
 .menu-texto {
     margin-top: 51px;
     padding: 95px 0px 115px 14px;
-    background-image: url("./Imagem/BackgroundMenu.jpg");
+    background-image: url(../Imagem/BackgroundMenu.jpg);
     background-size: cover;
     position: relative;
     text-align: center;
